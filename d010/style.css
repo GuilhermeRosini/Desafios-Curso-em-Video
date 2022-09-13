@@ -1,0 +1,130 @@
+
+@font-face {
+    font-family: 'idroid';
+    src: url('fonte/idroid.otf') format('opentype');
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+body{
+    background-color: #84E1AD;
+    margin:0px;
+    font-family: sans-serif;
+}
+
+main{
+    background-color: white;
+    width:800px;
+    text-align:justify;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.718);
+    border-radius: 0px 0px 10px 10px;
+    font-weight: bold;
+}
+
+header{
+    height: 200px;
+    text-align: center;
+    background-image: linear-gradient( 180deg, #3CD681, #195935);
+    margin: 0px;
+    padding-top: 50px;
+}
+
+header>section{
+    text-align: start;
+}
+
+footer{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    padding-bottom: 1px;
+    background-color: #20603D;
+    padding: 2px;
+}
+
+
+.titulo-comeco{
+    font-size:35px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+.android{
+    color: #20603D;
+}
+
+.google{
+    color: #20603D;
+}
+
+.dan-morrill{
+    color: #20603D;
+}
+
+.primeira-versao{
+    color: #20603D;
+    background-image: linear-gradient(90deg ,lightgreen ,white);
+    font-family: 'idroid', Arial, sans-serif;
+}
+
+.surge-mascote{
+    color: #20603D;
+    background-image: linear-gradient(90deg ,lightgreen ,white);
+    font-family: 'idroid', Arial, sans-serif;
+}
+
+.mascote-android{
+    font-family: 'idroid', Arial, sans-serif;
+    color: green;
+}
+
+.ptitulo{
+    
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+.home{
+    font-size: 20px;
+    margin-top: 50px;
+    color: white;
+}
+
+.video{
+    text-align: center;
+    background-color: #195935;
+    padding: 15px;
+}
+
+.imagem-android{
+    text-align: center;
+}
+
+.gustavo{
+    color: white;
+}
+
+.cursovideo{
+    color: white;
+}
+
+.gui{
+    color: white;
+}
+
+.extratitulo{
+    color: white;
+    background-color: #38a868;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+    margin-bottom: 0px;
+}
+
+.extra-texto{
+    padding: 7px 7px 7px 7px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #a0e8bf;
+}
